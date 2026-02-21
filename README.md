@@ -29,5 +29,5 @@ I am intentionally building practical skills through labs and small projects whi
 - Hands-on labs and real-world scenarios
 
 ### Let’s Connect 🤝
-- LinkedIn: www.linkedin.com/in/oranotse-gaolojwe-759b55204
+- LinkedIn: www.linkedin.com/in/oranotse-gaolojwe
 - GitHub: You’re already here 🙂
