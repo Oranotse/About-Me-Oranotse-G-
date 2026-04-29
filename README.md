@@ -1,33 +1,130 @@
-# About Me (OranotseG)
-Personal GitHub profile showcasing my journey as an IT graduate and AWS re/Start learner, with a focus on AWS, cloud computing, and future cloud security work.
+# 👋 Hi, I'm Oranotse Gaolojwe
 
-## Hi, I’m Oranotse 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oranotse-gaolojwe)
 
-🎓 IT (Software Development) Graduate  
-☁️ AWS re/Start Learner  
-📍 South Africa  
+> **IT Graduate | AWS re/Start Learner | Aspiring Cloud Security Professional**
 
-### About Me
-I am an IT graduate with a background in software development and a growing interest in cloud computing. I am currently part of the AWS re/Start programme, where I am building a strong foundation in AWS, networking, and cloud concepts through hands-on labs and practical exercises.
+📍 Based in South Africa
 
-I am especially interested in how cloud technologies intersect with security, and my long-term goal is to move into cloud security. For now, I am focused on developing solid fundamentals and positioning myself for entry-level roles such as Cloud Practitioner or Junior Cloud Engineer.
+---
 
-### What I’m Currently Learning 🌱
-- AWS core services (EC2, S3, IAM, VPC)
-- Cloud fundamentals and architecture
-- Networking basics for cloud environments
-- Linux and command-line fundamentals
-- Security concepts in the cloud
+## 🚀 About Me
 
-### What I’m Working Towards 🚀
-I am intentionally building practical skills through labs and small projects while learning how real-world cloud environments operate. My aim is to grow into a professional who understands both infrastructure and security, rather than rushing into advanced topics without strong foundations.
+I'm an IT graduate with a background in **Software Development** and a growing passion for **cloud computing**. I just completed the **AWS re/Start programme**, where I was building a strong foundation in AWS services, networking, and cloud architecture through hands-on labs and practical exercises.
 
-### Interests 🔐☁️
-- Cloud Computing (AWS)
-- Cloud Security
-- Cybersecurity
-- Hands-on labs and real-world scenarios
+My journey is driven by a clear vision: to become a **Cloud Security Professional**. I believe in building solid fundamentals first, which is why I'm focused on mastering core cloud concepts before diving into specialized security domains.
 
-### Let’s Connect 🤝
-- LinkedIn: www.linkedin.com/in/oranotse-gaolojwe
-- GitHub: You’re already here 🙂
+---
+
+## 🌱 What I'm Currently Learning
+
+- ☁️ **AWS Core Services:** EC2, S3, IAM, VPC, RDS, Lambda
+- 🏗️ **Cloud Architecture:** Design patterns and best practices
+- 🌐 **Networking:** VPC configuration, subnets, security groups, routing
+- 🐧 **Linux Administration:** Command-line proficiency and system management
+- 🔐 **Cloud Security:** IAM policies, encryption, compliance frameworks
+- 🐍 **Python:** Scripting and automation for cloud environments
+
+---
+
+## 🎯 Current Goals
+
+✅ Complete AWS re/Start programme  
+🔄 Earn **AWS Certified Cloud Practitioner** certification  
+📋 Build a portfolio of hands-on cloud projects  
+📋 Secure an entry-level role as a **Cloud Practitioner** or **Junior Cloud Engineer**  
+📋 Develop expertise in **Cloud Security** and governance  
+
+---
+
+## 💼 Career Path
+
+**Short-term Focus:**
+- Master AWS fundamentals through practical labs
+- Obtain foundational AWS certifications
+- Land an entry-level cloud role
+
+**Long-term Vision:**
+- Transition into **Cloud Security**
+- Specialize in securing cloud infrastructures
+- Become a trusted professional at the intersection of cloud and security
+
+---
+
+## 🔐 Areas of Interest
+
+- ☁️ Cloud Computing (AWS)
+- 🛡️ Cloud Security & Compliance
+- 🔒 Cybersecurity
+- 📊 Hands-on labs and real-world scenarios
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:**  
+- C#, Dart, JavaScript, Python, SQL, Bash
+
+**Cloud Platforms:**  
+- AWS (EC2, S3, VPC, IAM, RDS, Lambda)
+- Basic cloud architecture and design
+
+**Development Tools:**  
+- Visual Studio, VS Code, GitHub
+
+**Databases & Backend:**  
+- Firebase, SQL databases
+
+**Virtualization:**  
+- Hyper-V
+
+**Operating Systems:**  
+- Linux, Windows
+
+**IT Support & Administration:**  
+- Hardware & Software Troubleshooting
+- End-User Support
+
+**Currently Learning:**  
+- Advanced AWS services and security
+
+---
+## 📂 Featured Repositories
+
+- 🚀 [**aws-restart-portfolio**](https://github.com/OranotseG/aws-restart-portfolio) - My AWS re/Start learning journey
+
+---
+
+## 📈 GitHub Stats
+
+![Oranotse's GitHub stats](https://github-readme-stats.vercel.app/api?username=OranotseG&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to connecting with fellow learners, cloud enthusiasts, and professionals in the field!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oranotse_Gaolojwe-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oranotse-gaolojwe)
+[![GitHub](https://img.shields.io/badge/GitHub-OranotseG-181717?style=for-the-badge&logo=github)](https://github.com/OranotseG)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+---
+
+## 💡 Philosophy
+
+> *"I believe in building strong foundations before reaching for the sky. My approach is deliberate, practical, and focused on real-world skills that matter in the cloud industry."*
+
+---
+
+**⚡ Fun Fact:** I'm intentionally taking my time to master the fundamentals—because in tech, a solid foundation is worth more than rushed expertise!
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Feel free to explore my repositories and connect.</i>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/OranotseG">OranotseG</a>
+</p>
