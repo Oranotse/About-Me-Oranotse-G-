@@ -104,14 +104,7 @@ My journey is driven by a clear vision: to become a **Cloud Security Professiona
 
 ---
 
-
-## 💡 Philosophy
-
-> *"I believe in building strong foundations before reaching for the sky. My approach is deliberate, practical, and focused on real-world skills that matter in the cloud industry."*
-
----
-
-**⚡ Fun Fact:** I'm intentionally taking my time to master the fundamentals—because in tech, a solid foundation is worth more than rushed expertise!
+**⚡ Fun Fact:** I'm intentionally taking my time to master the fundamentals, because in tech, a solid foundation is worth more than rushed expertise!
 
 ---
 
