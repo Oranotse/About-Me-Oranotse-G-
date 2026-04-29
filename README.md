@@ -12,8 +12,8 @@
 I'm always open to connecting with fellow learners, cloud enthusiasts, and professionals in the field!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oranotse_Gaolojwe-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oranotse-gaolojwe)
-[![GitHub](https://img.shields.io/badge/GitHub-OranotseG-181717?style=for-the-badge&logo=github)](https://github.com/Oranotse)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](omolemogaolojwe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Oranotse-181717?style=for-the-badge&logo=github)](https://github.com/Oranotse)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:omolemogaolojwe@gmail.com)
 
 ---
 
