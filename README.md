@@ -109,9 +109,9 @@ My journey is driven by a clear vision: to become a **Cloud Security Professiona
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repositories and connect.</i>
+  <i>Thank you for stopping by! Feel free to check out my repositories and connect.</i>
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/OranotseG">OranotseG</a>
+  ⭐️ From <a href="https://github.com/Oranotse">Oranotse</a>
 </p>
