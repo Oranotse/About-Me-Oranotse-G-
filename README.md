@@ -91,7 +91,7 @@ My journey is driven by a clear vision: to become a **Cloud Security Professiona
 ---
 ## 📂 Featured Repositories
 
-- 🚀 [**aws-restart-portfolio**](https://github.com/OranotseG/aws-restart-portfolio) - My AWS re/Start learning journey
+- 🚀 [**aws-restart-portfolio**](https://github.com/Oranotse/aws-restart-portfolio) - My AWS re/Start learning journey
 
 ---
 ## 🤝 Let's Connect!
